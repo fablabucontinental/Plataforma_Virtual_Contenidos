@@ -292,15 +292,23 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 872px;
+  }
+
   .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
+    font-size: 1.875rem;
     margin-left: calc(((100% - 1140px) / 2) + 400px);
     margin-right: calc(((100% - 1140px) / 2) + 400px);
   }
 
   .u-section-1 .u-layout-wrap-1 {
     width: 340px;
-    margin-left: calc(((100% - 1140px) / 2) + 400px);
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 491px;
   }
 
   .u-section-1 .u-text-2 {
@@ -308,30 +316,35 @@
     margin-right: 0;
   }
 
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 308px;
+  }
+
   .u-section-1 .u-icon-1 {
-    margin-top: 12px;
+    margin-top: 17px;
   }
 
   .u-section-1 .u-text-4 {
     font-size: 1.125rem;
-    margin-top: -28px;
+    margin-top: -33px;
     margin-right: -10px;
     margin-left: 80px;
   }
 
   .u-section-1 .u-text-5 {
     font-size: 1.125rem;
+    margin-top: -45px;
     margin-right: 0;
     margin-left: 75px;
   }
 
   .u-section-1 .u-icon-3 {
-    margin-top: 19px;
+    margin-top: 14px;
   }
 
   .u-section-1 .u-text-6 {
     font-size: 1.125rem;
-    margin-top: -57px;
+    margin-top: -45px;
     margin-right: 0;
     margin-left: 75px;
   }
@@ -342,7 +355,7 @@
 
   .u-section-1 .u-text-7 {
     font-size: 1.125rem;
-    margin-top: -50px;
+    margin-top: -46px;
     margin-right: 0;
     margin-left: 75px;
   }
