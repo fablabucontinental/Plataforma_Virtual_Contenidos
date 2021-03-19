@@ -33670,8 +33670,8 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.125rem;
   letter-spacing: 0px;
   background-image: none;
-  font-weight: 700;
   text-transform: uppercase;
+  font-weight: 700;
 }
 
 .u-header .u-nav-2 {
@@ -33809,6 +33809,13 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
+ /*begin-variables custom-site-css*/ @font-face {
+    font-family: 'Neue Plak'!important;
+    src: url('/font/Neue Plak Black.ttf');
+  } 
+  * {
+    font-family: 'Neue Plak'!important;
+  }/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
