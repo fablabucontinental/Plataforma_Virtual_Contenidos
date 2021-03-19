@@ -103,7 +103,8 @@
 
 .u-section-1 .u-text-8 {
   font-weight: 700;
-  margin: 20px 83px 0;
+  width: 73px;
+  margin: 20px auto 0;
 }
 
 .u-section-1 .u-text-9 {
@@ -194,11 +195,6 @@
 
   .u-section-1 .u-layout-cell-4 {
     min-height: 242px;
-  }
-
-  .u-section-1 .u-text-8 {
-    margin-right: 58px;
-    margin-left: 58px;
   }
 
   .u-section-1 .u-layout-cell-5 {
@@ -335,11 +331,6 @@
   }
 
   .u-section-1 .u-text-6 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-text-8 {
     margin-left: 0;
     margin-right: 0;
   }
