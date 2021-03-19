@@ -1,10 +1,3 @@
-@font-face {
-   font-family: 'Neue Plak'!important;
-   src: url('/font/Neue Plak Black.ttf');
- }
- * {
-   font-family: 'Neue Plak'!important;
- }
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/FabLab-Fotos1.jpg");
 }
@@ -971,7 +964,7 @@
   }
 }.u-section-4 {
   background-image: none;
-  min-height: 2132px;
+  min-height: 1715px;
 }
 
 .u-section-4 .u-shape-1 {
@@ -988,11 +981,12 @@
 }
 
 .u-section-4 .u-list-1 {
-  min-height: 2072px;
+  min-height: 1483px;
   grid-template-columns: 50% 50%;
   grid-template-rows: auto auto;
   width: 1140px;
   grid-gap: 0px 0px;
+  height: auto;
   margin: 73px auto 0;
 }
 
@@ -1010,12 +1004,13 @@
 
 .u-section-4 .u-group-1 {
   width: 255px;
-  min-height: 632px;
+  min-height: 419px;
+  height: auto;
   margin: -255px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 0 0 20px 25px;
+  padding: 0 0 15px 25px;
 }
 
 .u-section-4 .u-text-2 {
@@ -1032,7 +1027,7 @@
 
 .u-section-4 .u-text-4 {
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 300;
   margin: 20px 0 0;
 }
 
@@ -1057,12 +1052,13 @@
 
 .u-section-4 .u-group-2 {
   width: 255px;
-  min-height: 627px;
+  min-height: 419px;
+  height: auto;
   margin: -255px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-4 {
-  padding: 0 0 20px 25px;
+  padding: 0 0 15px 25px;
 }
 
 .u-section-4 .u-text-5 {
@@ -1079,7 +1075,7 @@
 
 .u-section-4 .u-text-7 {
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 300;
   margin: 20px 0 0;
 }
 
@@ -1104,12 +1100,13 @@
 
 .u-section-4 .u-group-3 {
   width: 255px;
-  min-height: 627px;
+  min-height: 419px;
+  height: auto;
   margin: -255px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-6 {
-  padding: 0 0 20px 25px;
+  padding: 0 0 15px 25px;
 }
 
 .u-section-4 .u-text-8 {
@@ -1126,7 +1123,7 @@
 
 .u-section-4 .u-text-10 {
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 300;
   margin: 20px 0 0;
 }
 
@@ -1151,12 +1148,13 @@
 
 .u-section-4 .u-group-4 {
   width: 255px;
-  min-height: 627px;
+  min-height: 419px;
+  height: auto;
   margin: -255px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-8 {
-  padding: 0 0 20px 25px;
+  padding: 0 0 15px 25px;
 }
 
 .u-section-4 .u-text-11 {
@@ -1173,7 +1171,7 @@
 
 .u-section-4 .u-text-13 {
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 300;
   margin: 20px 0 0;
 }
 
@@ -1198,12 +1196,13 @@
 
 .u-section-4 .u-group-5 {
   width: 255px;
-  min-height: 627px;
+  min-height: 419px;
+  height: auto;
   margin: -255px 0 0 auto;
 }
 
 .u-section-4 .u-container-layout-10 {
-  padding: 0 0 20px 25px;
+  padding: 0 0 15px 25px;
 }
 
 .u-section-4 .u-text-14 {
@@ -1220,7 +1219,7 @@
 
 .u-section-4 .u-text-16 {
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 300;
   margin: 20px 0 0;
 }
 
@@ -1233,7 +1232,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 {
-    min-height: 1768px;
+    min-height: 1455px;
   }
 
   .u-section-4 .u-shape-1 {
@@ -1246,10 +1245,9 @@
   }
 
   .u-section-4 .u-list-1 {
-    min-height: 1708px;
+    min-height: 1223px;
     grid-template-columns: repeat(2, 50%);
     width: 940px;
-    height: auto;
     margin-left: calc(((100% - 940px) / 2));
   }
 
@@ -1266,6 +1264,11 @@
     width: 218px;
     margin-top: -190px;
     margin-right: 3px;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-4 {
+    font-style: normal;
   }
 
   .u-section-4 .u-container-layout-3 {
@@ -1281,6 +1284,11 @@
     width: 218px;
     margin-top: -190px;
     margin-right: 3px;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-7 {
+    font-style: normal;
   }
 
   .u-section-4 .u-container-layout-5 {
@@ -1296,6 +1304,11 @@
     width: 218px;
     margin-top: -190px;
     margin-right: 3px;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-10 {
+    font-style: normal;
   }
 
   .u-section-4 .u-container-layout-7 {
@@ -1311,6 +1324,11 @@
     width: 218px;
     margin-top: -190px;
     margin-right: 3px;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-13 {
+    font-style: normal;
   }
 
   .u-section-4 .u-container-layout-9 {
@@ -1326,6 +1344,11 @@
     width: 218px;
     margin-top: -190px;
     margin-right: 3px;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-16 {
+    font-style: normal;
   }
 }
 
