@@ -140,7 +140,7 @@
 .u-section-2 .u-text-1 {
   font-weight: 700;
   text-transform: uppercase;
-  margin: 68px 385px 0;
+  margin: 68px 323px 0 385px;
 }
 
 .u-section-2 .u-list-1 {
@@ -273,7 +273,7 @@
 
   .u-section-2 .u-text-1 {
     margin-left: 285px;
-    margin-right: 285px;
+    margin-right: 223px;
   }
 
   .u-section-2 .u-list-1 {
@@ -356,7 +356,7 @@
 
   .u-section-2 .u-text-1 {
     margin-left: 175px;
-    margin-right: 175px;
+    margin-right: 113px;
   }
 
   .u-section-2 .u-list-1 {
@@ -414,7 +414,7 @@
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
     margin-left: 85px;
-    margin-right: 85px;
+    margin-right: 23px;
   }
 
   .u-section-2 .u-list-1 {
