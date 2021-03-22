@@ -1224,7 +1224,6 @@
   grid-template-columns: calc(33.3333% - 18px) calc(33.3333% - 18px) calc(33.3333% - 18px);
   width: 976px;
   grid-gap: 27px 27px;
-  height: auto;
   margin: 0 auto -37px 0;
 }
 
@@ -1461,6 +1460,7 @@
     min-height: 416px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 18px));
     width: 880px;
+    height: auto;
   }
 }
 
