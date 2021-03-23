@@ -188,6 +188,10 @@
   margin: 30px auto 0;
 }
 
+.u-section-2 .u-list-item-2 {
+  background-size: auto;
+}
+
 .u-section-2 .u-container-layout-2 {
   padding: 30px;
 }
@@ -221,6 +225,10 @@
   letter-spacing: 1px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
   margin: 30px auto 0;
+}
+
+.u-section-2 .u-list-item-3 {
+  background-size: auto;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -296,10 +304,6 @@
     margin-top: 14px;
   }
 
-  .u-section-2 .u-list-item-2 {
-    background-size: auto;
-  }
-
   .u-section-2 .u-line-2 {
     margin-right: initial;
     margin-left: initial;
@@ -320,10 +324,6 @@
   .u-section-2 .u-btn-2 {
     height: 42px;
     margin-top: 14px;
-  }
-
-  .u-section-2 .u-list-item-3 {
-    background-size: auto;
   }
 
   .u-section-2 .u-line-3 {
