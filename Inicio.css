@@ -574,7 +574,7 @@
 }
 
 .u-section-3 .u-text-4 {
-  font-size: 1.125rem;
+  font-size: 0.875rem;
   margin: 20px 0 0;
 }
 
@@ -600,7 +600,7 @@
 }
 
 .u-section-3 .u-text-6 {
-  font-size: 1.125rem;
+  font-size: 0.875rem;
   margin: 20px 0 0;
 }
 
@@ -858,16 +858,8 @@
     font-size: 1.25rem;
   }
 
-  .u-section-3 .u-text-4 {
-    font-size: 0.875rem;
-  }
-
   .u-section-3 .u-text-5 {
     font-size: 1.25rem;
-  }
-
-  .u-section-3 .u-text-6 {
-    font-size: 0.875rem;
   }
 
   .u-section-3 .u-layout-cell-2 {
